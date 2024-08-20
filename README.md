@@ -1,4 +1,4 @@
-# 100_Days_of_Code
+#100DaysofCode
 100 Days of Code - Python Challenge
 
 Welcome to the "100 Days of Code - Python Challenge"! This repository is dedicated to a daily coding challenge aimed at improving your Python programming skills over the next 100 days.
