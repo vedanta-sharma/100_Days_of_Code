@@ -7,14 +7,14 @@ Getting Started
 
 This repository contains daily projects, challenges, and exercises designed to help you enhance your Python knowledge and problem-solving abilities. Each day focuses on a specific concept or technique in Python.
 
-Prerequisites
+Prerequisites:
 
 To get started, you'll need:
 - Python installed on your machine. You can download it from https://www.python.org/downloads/.
 - A code editor or IDE of your choice (e.g., VSCode, PyCharm, or even a simple text editor).
 
 
-Daily Challenges
+Daily Challenges:
 
 Each day's challenge will focus on different aspects of Python programming, including but not limited to:
 - Basic syntax and data structures
@@ -28,7 +28,7 @@ Each day's challenge will focus on different aspects of Python programming, incl
 
 Check the 'days' directory for details on each day's challenge.
 
-Contributing
+Contributing:
 
 Contributions are welcome! If you have ideas for new challenges or improvements:
 1. Fork the repository.
