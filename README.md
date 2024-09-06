@@ -10,7 +10,7 @@ This repository contains daily projects, challenges, and exercises designed to h
 Prerequisites:
 
 To get started, you'll need:
-- Python installed on your machine. You can download it from https://www.python.org/downloads/.
+- Python installed on your machine. You can download it from https://www.python.org/downloads/
 - A code editor or IDE of your choice (e.g., VSCode, PyCharm, or even a simple text editor).
 
 
