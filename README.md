@@ -23,7 +23,7 @@ Each day's challenge will focus on different aspects of Python programming, incl
 - Object-oriented programming
 - Web scraping
 - API interactions
-- Data analysis and visualization
+- Data analysis & visualization
 - And more!
 
 Check the 'days' directory for details on each day's challenge.
