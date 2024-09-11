@@ -17,8 +17,8 @@ To get started, you'll need:
 Daily Challenges:
 
 Each day's challenge will focus on different aspects of Python programming, including but not limited to:
-- Basic syntax and data structures
-- Functions and modules
+- Basic syntax & data structures
+- Functions & modules
 - File handling
 - Object-oriented programming
 - Web scraping
