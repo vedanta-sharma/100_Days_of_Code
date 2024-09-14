@@ -32,7 +32,7 @@ Contributing:
 
 Contributions are welcome! If you have ideas for new challenges or improvements:
 1. Fork the repository.
-2. Create a new branch.
+2. Create new branch.
 3. Make your changes.
 4. Submit a pull request.
 
