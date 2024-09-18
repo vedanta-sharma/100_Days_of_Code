@@ -24,7 +24,7 @@ Each day's challenge will focus on different aspects of Python programming, incl
 - Web scraping
 - API interactions
 - Data analysis & visualization
-- And more!
+- And more
 
 Check the 'days' directory for details on each day's challenge.
 
